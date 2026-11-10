@@ -134,8 +134,7 @@ Leave-one-area-out evaluation excludes the test area from both training and vali
 | Dual-stream encoder + DAF | 77.6 ± 0.6 |
 | **Complete GA-GLNet** | **80.3 ± 0.4** |
 
-These ablation results are **mean ± standard deviation over three independent training runs**. The 80.3% ablation mean is distinct from the 79.9% result in the main comparison table.
-
+These ablation results are **mean ± standard deviation over three independent training runs**.
 </details>
 
 ## Visualizations
