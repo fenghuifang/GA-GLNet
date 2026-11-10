@@ -20,7 +20,7 @@ We also introduce **TLS-OCS3D**, a terrestrial laser scanning benchmark with app
 | :---: | :---: | :---: |
 | **79.9%** | **87.8%** | **67.5%** |
 
-The cross-dataset result is measured on 51 reannotated OCS-Dataset samples over 11 target classes, without target-domain fine-tuning. It uses a different evaluation protocol from the 18-class TLS-OCS3D test set.
+The cross-dataset result is measured on 51 reannotated OCS-Dataset samples over 11 target classes, without target-domain fine-tuning. It uses the same evaluation protocol from the 18-class TLS-OCS3D test set.
 
 ## Method
 
@@ -160,10 +160,9 @@ These ablation results are **mean ± standard deviation over three independent t
 
 ## Availability
 
-The **Area_1 subset of TLS-OCS3D is available for download**: 19 scans, 887 original text files, and 70,792,140 point rows.
+The **dataset subset of TLS-OCS3D is available for download**:
 
-- **[Download Area_1 (ZIP, approximately 1.06 GB)](https://github.com/kwo279929-svg/TLS-3D/releases/download/tls-ocs3d-area1-v1.0/TLS-OCS3D_Area_1.zip)**
+- **[Download TLS-OCS3D (ZIP, approximately 1.06 GB)](https://github.com/kwo279929-svg/TLS-3D/releases/download/tls-ocs3d-area1-v1.0/TLS-OCS3D_Area_1.zip)**
 - [Data documentation, file format, and checksums](data/README.md)
 - [Dataset release](https://github.com/kwo279929-svg/TLS-3D/releases/tag/tls-ocs3d-area1-v1.0)
 
-This release contains Area_1 only; the other two collection areas, training code, and pretrained weights are not included. The download preserves the original folder structure and file contents. See the data documentation for extraction and integrity verification.
