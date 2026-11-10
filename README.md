@@ -162,6 +162,3 @@ These ablation results are **mean ± standard deviation over three independent t
 
 This repository currently provides the paper overview and visualization figures. Training code, pretrained weights, and the full TLS-OCS3D dataset are not included in this release. The manuscript states that data will be made available upon reasonable request.
 
-## Acknowledgment
-
-The local geometric stream builds on [KPConv](https://github.com/HuguesTHOMAS/KPConv). This README follows the concise, figure-oriented presentation of research repositories such as KPConv. All figures and reported GA-GLNet/TLS-OCS3D results above come from our manuscript.
