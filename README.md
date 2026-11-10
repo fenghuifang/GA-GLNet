@@ -110,7 +110,7 @@ All values below are percentages reported in the manuscript on the fixed 18-clas
 | PT-V3 | 77.2 | 84.9 |
 | **GA-GLNet (Ours)** | **79.9** | **87.8** |
 
-GA-GLNet improves mIoU by **7.4 percentage points over KPConv** and **2.7 percentage points over PT-V3**. Gains are class dependent; the model does not lead on every component category.
+GA-GLNet improves mIoU by **7.4 percentage points over KPConv** and **2.7 percentage points over PT-V3**. 
 
 ### Generalization
 
