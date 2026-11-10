@@ -1,10 +1,10 @@
-# TLS-OCS3D Data: Area_1
+# TLS-OCS3D Data
 
-This directory documents the **Area_1 subset** of TLS-OCS3D. The point-cloud files are distributed as a GitHub Release attachment so that cloning the repository does not require downloading the full dataset package.
+This directory documents the **TLS-OCS3D subset** of TLS-OCS3D. The point-cloud files are distributed as a GitHub Release attachment so that cloning the repository does not require downloading the full dataset package.
 
 ## Download
 
-- **[Download Area_1 (ZIP, approximately 1.06 GB)](https://github.com/kwo279929-svg/TLS-3D/releases/download/tls-ocs3d-area1-v1.0/TLS-OCS3D_Area_1.zip)**
+- **[Download TLS_OCS3D (ZIP, approximately 1.06 GB)](https://github.com/kwo279929-svg/TLS-3D/releases/download/tls-ocs3d-area1-v1.0/TLS-OCS3D_Area_1.zip)**
 - [Release page](https://github.com/kwo279929-svg/TLS-3D/releases/tag/tls-ocs3d-area1-v1.0)
 - [Archive checksum](SHA256SUMS.txt)
 - [Per-file manifest](Area_1_manifest.json)
@@ -21,7 +21,6 @@ Download the named **TLS-OCS3D_Area_1.zip** asset. GitHub's automatically genera
 | Uncompressed size | 3,373,047,024 bytes |
 | ZIP size | 1,060,721,541 bytes |
 
-This release contains **Area_1 only**, rather than the complete 61-scan, three-area TLS-OCS3D benchmark. The original directory names, filenames, and file contents are preserved.
 
 ## File organization
 
